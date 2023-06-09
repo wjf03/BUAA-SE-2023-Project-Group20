@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?7fzxho');
+  src:  url('fonts/icomoon.eot?7fzxho#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?7fzxho') format('truetype'),
+    url('fonts/icomoon.woff?7fzxho') format('woff'),
+    url('fonts/icomoon.svg?7fzxho#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add:before {
+  content: "\e912";
+  color: #fff;
+}
+.icon-delete:before {
+  content: "\e910";
+  color: #666;
+}
+.icon-go:before {
+  content: "\e911";
+  color: #666;
+}
+.icon-clear:before {
+  content: "\e90d";
+  color: #717378;
+}
+.icon-confirm:before {
+  content: "\e90e";
+  color: #717378;
+}
+.icon-makeNote:before {
+  content: "\e90f";
+  color: #717378;
+}
+.icon-mark:before {
+  content: "\e90b";
+  color: #707070;
+}
+.icon-note:before {
+  content: "\e90c";
+  color: #707070;
+}
+.icon-left:before {
+  content: "\e909";
+  color: #999;
+}
+.icon-right:before {
+  content: "\e90a";
+  color: #999;
+}
+.icon-A:before {
+  content: "\e908";
+  color: #707070;
+}
+.icon-back:before {
+  content: "\e900";
+  color: #707070;
+}
+.icon-bright:before {
+  content: "\e901";
+  color: #707070;
+}
+.icon-cart:before {
+  content: "\e902";
+  color: #707070;
+}
+.icon-menu:before {
+  content: "\e903";
+  color: #707070;
+}
+.icon-more:before {
+  content: "\e904";
+  color: #707070;
+}
+.icon-person:before {
+  content: "\e905";
+  color: #707070;
+}
+.icon-progress:before {
+  content: "\e906";
+  color: #707070;
+}
+.icon-share:before {
+  content: "\e907";
+  color: #707070;
+}
